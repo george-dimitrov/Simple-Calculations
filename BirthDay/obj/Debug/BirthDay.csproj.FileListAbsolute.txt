@@ -1,0 +1,6 @@
+C:\Users\george\Desktop\SoftUni\Examinations\Simple-Calculations\BirthDay\bin\Debug\BirthDay.exe.config
+C:\Users\george\Desktop\SoftUni\Examinations\Simple-Calculations\BirthDay\bin\Debug\BirthDay.exe
+C:\Users\george\Desktop\SoftUni\Examinations\Simple-Calculations\BirthDay\bin\Debug\BirthDay.pdb
+C:\Users\george\Desktop\SoftUni\Examinations\Simple-Calculations\BirthDay\obj\Debug\BirthDay.csproj.CoreCompileInputs.cache
+C:\Users\george\Desktop\SoftUni\Examinations\Simple-Calculations\BirthDay\obj\Debug\BirthDay.exe
+C:\Users\george\Desktop\SoftUni\Examinations\Simple-Calculations\BirthDay\obj\Debug\BirthDay.pdb

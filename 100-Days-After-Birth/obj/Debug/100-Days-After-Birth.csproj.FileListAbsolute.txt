@@ -1,0 +1,7 @@
+C:\Users\george\Desktop\SoftUni\Examinations\Simple-Calculations\100-Days-After-Birth\bin\Debug\100-Days-After-Birth.exe.config
+C:\Users\george\Desktop\SoftUni\Examinations\Simple-Calculations\100-Days-After-Birth\bin\Debug\100-Days-After-Birth.exe
+C:\Users\george\Desktop\SoftUni\Examinations\Simple-Calculations\100-Days-After-Birth\bin\Debug\100-Days-After-Birth.pdb
+C:\Users\george\Desktop\SoftUni\Examinations\Simple-Calculations\100-Days-After-Birth\obj\Debug\100-Days-After-Birth.csproj.CoreCompileInputs.cache
+C:\Users\george\Desktop\SoftUni\Examinations\Simple-Calculations\100-Days-After-Birth\obj\Debug\100-Days-After-Birth.exe
+C:\Users\george\Desktop\SoftUni\Examinations\Simple-Calculations\100-Days-After-Birth\obj\Debug\100-Days-After-Birth.pdb
+C:\Users\george\Desktop\SoftUni\Examinations\Simple-Calculations\100-Days-After-Birth\obj\Debug\100-Days-After-Birth.csprojResolveAssemblyReference.cache

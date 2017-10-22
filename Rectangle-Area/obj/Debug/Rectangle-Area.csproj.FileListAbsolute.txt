@@ -1,0 +1,6 @@
+C:\Users\george\Desktop\SoftUni\Examinations\Simple-Calculations\Rectangle-Area\bin\Debug\Rectangle-Area.exe.config
+C:\Users\george\Desktop\SoftUni\Examinations\Simple-Calculations\Rectangle-Area\bin\Debug\Rectangle-Area.exe
+C:\Users\george\Desktop\SoftUni\Examinations\Simple-Calculations\Rectangle-Area\bin\Debug\Rectangle-Area.pdb
+C:\Users\george\Desktop\SoftUni\Examinations\Simple-Calculations\Rectangle-Area\obj\Debug\Rectangle-Area.csproj.CoreCompileInputs.cache
+C:\Users\george\Desktop\SoftUni\Examinations\Simple-Calculations\Rectangle-Area\obj\Debug\Rectangle-Area.exe
+C:\Users\george\Desktop\SoftUni\Examinations\Simple-Calculations\Rectangle-Area\obj\Debug\Rectangle-Area.pdb

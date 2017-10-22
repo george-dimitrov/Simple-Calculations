@@ -1,0 +1,6 @@
+C:\Users\george\Desktop\SoftUni\Examinations\Simple-Calculations\Triangle-Area\bin\Debug\Triangle-Area.exe.config
+C:\Users\george\Desktop\SoftUni\Examinations\Simple-Calculations\Triangle-Area\bin\Debug\Triangle-Area.exe
+C:\Users\george\Desktop\SoftUni\Examinations\Simple-Calculations\Triangle-Area\bin\Debug\Triangle-Area.pdb
+C:\Users\george\Desktop\SoftUni\Examinations\Simple-Calculations\Triangle-Area\obj\Debug\Triangle-Area.csproj.CoreCompileInputs.cache
+C:\Users\george\Desktop\SoftUni\Examinations\Simple-Calculations\Triangle-Area\obj\Debug\Triangle-Area.exe
+C:\Users\george\Desktop\SoftUni\Examinations\Simple-Calculations\Triangle-Area\obj\Debug\Triangle-Area.pdb

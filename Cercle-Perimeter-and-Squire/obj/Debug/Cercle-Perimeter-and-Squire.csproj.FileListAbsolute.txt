@@ -1,0 +1,6 @@
+C:\Users\george\Desktop\SoftUni\Examinations\Simple-Calculations\Cercle-Perimeter-and-Squire\bin\Debug\Cercle-Perimeter-and-Squire.exe.config
+C:\Users\george\Desktop\SoftUni\Examinations\Simple-Calculations\Cercle-Perimeter-and-Squire\bin\Debug\Cercle-Perimeter-and-Squire.exe
+C:\Users\george\Desktop\SoftUni\Examinations\Simple-Calculations\Cercle-Perimeter-and-Squire\bin\Debug\Cercle-Perimeter-and-Squire.pdb
+C:\Users\george\Desktop\SoftUni\Examinations\Simple-Calculations\Cercle-Perimeter-and-Squire\obj\Debug\Cercle-Perimeter-and-Squire.csproj.CoreCompileInputs.cache
+C:\Users\george\Desktop\SoftUni\Examinations\Simple-Calculations\Cercle-Perimeter-and-Squire\obj\Debug\Cercle-Perimeter-and-Squire.exe
+C:\Users\george\Desktop\SoftUni\Examinations\Simple-Calculations\Cercle-Perimeter-and-Squire\obj\Debug\Cercle-Perimeter-and-Squire.pdb

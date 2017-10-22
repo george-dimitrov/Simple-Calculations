@@ -1,0 +1,7 @@
+C:\Users\george\Desktop\SoftUni\Examinations\Simple-Calculations\Squire-Area\bin\Debug\Squire-Area.exe.config
+C:\Users\george\Desktop\SoftUni\Examinations\Simple-Calculations\Squire-Area\bin\Debug\Squire-Area.exe
+C:\Users\george\Desktop\SoftUni\Examinations\Simple-Calculations\Squire-Area\bin\Debug\Squire-Area.pdb
+C:\Users\george\Desktop\SoftUni\Examinations\Simple-Calculations\Squire-Area\obj\Debug\Squire-Area.csproj.CoreCompileInputs.cache
+C:\Users\george\Desktop\SoftUni\Examinations\Simple-Calculations\Squire-Area\obj\Debug\Squire-Area.exe
+C:\Users\george\Desktop\SoftUni\Examinations\Simple-Calculations\Squire-Area\obj\Debug\Squire-Area.pdb
+C:\Users\george\Desktop\SoftUni\Examinations\Simple-Calculations\Squire-Area\obj\Debug\Squire-Area.csprojResolveAssemblyReference.cache

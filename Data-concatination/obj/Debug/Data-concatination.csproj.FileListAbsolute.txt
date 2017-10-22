@@ -1,0 +1,6 @@
+C:\Users\george\Desktop\SoftUni\Examinations\Simple-Calculations\Data-concatination\bin\Debug\Data-concatination.exe.config
+C:\Users\george\Desktop\SoftUni\Examinations\Simple-Calculations\Data-concatination\bin\Debug\Data-concatination.exe
+C:\Users\george\Desktop\SoftUni\Examinations\Simple-Calculations\Data-concatination\bin\Debug\Data-concatination.pdb
+C:\Users\george\Desktop\SoftUni\Examinations\Simple-Calculations\Data-concatination\obj\Debug\Data-concatination.csproj.CoreCompileInputs.cache
+C:\Users\george\Desktop\SoftUni\Examinations\Simple-Calculations\Data-concatination\obj\Debug\Data-concatination.exe
+C:\Users\george\Desktop\SoftUni\Examinations\Simple-Calculations\Data-concatination\obj\Debug\Data-concatination.pdb
